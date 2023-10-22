@@ -1,1 +1,0 @@
-This project is made by: Cindy Yun, Lachlan Lai, Ryan Fok, Hyunbin Jang, Jeffrey Cheung, and Caleb Kan
