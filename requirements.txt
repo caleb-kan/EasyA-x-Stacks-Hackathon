@@ -5,5 +5,3 @@ openapi-schema-pydantic
 python-dotenv
 streamlit
 streamlit-js-eval
-os
-io
