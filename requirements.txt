@@ -1,6 +1,6 @@
 langchain
 langchainplus-sdk
-openai
+openai==0.28
 openapi-schema-pydantic
 python-dotenv
 streamlit
